@@ -1,0 +1,24 @@
+body {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+h1, h2, h3 {
+    color: darkred;
+}
+ul {
+    background-color: #ffcc80;
+    padding: 10px;
+}
+li {
+    display: inline;
+    margin-right: 15px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+a:hover {
+    color: red;
+}
